@@ -13,7 +13,7 @@ This is an individual project for mmed-1055
 > On hover, as an example, reverse all of the colours or add a drop shadow, etc. 
 - [x] When clicked, toggle a “selected” CSS class on the active icon and log a message to the console with the ID of the element that you’ve clicked. 
 > The ID should be retrieved and displayed with a JavaScript string template and variable (refer to the class example). 
-- [ ] All ﬁles must be uploaded to GitHub following the best practices taught in Authoring.
+- [x] All ﬁles must be uploaded to GitHub following the best practices taught in Authoring.
 > ONLY THE MASTER BRANCH WILL BE GRADED. Secondary branches should be named appropriately.
 
 #### General Requirements
